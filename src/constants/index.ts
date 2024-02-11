@@ -139,7 +139,7 @@ const experiences: TExperience[] = [
     date: "Oct 2023 - Present",
     points: [
       "Suite à la rapidité d’adaptation que j’ai eue dans mon poste actuel, on a fini par me confier la responsabilité de partager mes connaissances en tant que maîtresse de stage, ce qui m’aidera à développer mes compétences managériales.",
-      "Mon objectif est de partager soigneusement mes connaissances avec la stagiaire sous mon aile",
+      "Mon objectif est de partager soigneusement mes connaissances avec la stagiaire sous mon aile.",
       "L'encadrer et la conseiller afin de l’aider à se développer professionnellement.",
     ],
   },
