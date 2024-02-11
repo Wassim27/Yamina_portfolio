@@ -120,7 +120,7 @@ const experiences: TExperience[] = [
     companyName: "Bank ABC",
     icon: bankabc,
     iconBg: "#E6DEDD",
-    date: "Avril 2023 - Present",
+    date: "Avril 2023 - Oct 2023",
     points: [
       "Les extractions des opérations traitées par les agences à leurs charge à partir du SharePoint application.",
       "Au quotidien, faire un contrôle minutieux des JC dans les délais fixés.",
@@ -129,6 +129,18 @@ const experiences: TExperience[] = [
       "Transmission des reporting aux responsables des agences et le suivi de leur prise en charge pour régularisation.",
       "Participation aux missions des contrôles inopinés et de fin de mois des caisses, ou autres inventaires sur des formules numérotées.",
       "Prendre part à des missions thématiques et spéciales auprès des agences.",
+    ],
+  },
+  {
+    title: "Contrôleuse des opérations - Maîtresse de stage.",
+    companyName: "Bank ABC",
+    icon: bankabc,
+    iconBg: "#E6DEDD",
+    date: "Oct 2023 - Present",
+    points: [
+      "Suite à la rapidité d’adaptation que j’ai eue dans mon poste actuel, on a fini par me confier la responsabilité de partager mes connaissances en tant que maîtresse de stage, ce qui m’aidera à développer mes compétences managériales.",
+      "Mon objectif est de partager soigneusement mes connaissances avec la stagiaire sous mon aile",
+      "L'encadrer et la conseiller afin de l’aider à se développer professionnellement.",
     ],
   },
 ];
